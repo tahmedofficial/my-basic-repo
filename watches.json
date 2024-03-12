@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Apple Watch Series 98",
+    "id": "AW7-001",
+    "price": 399.99
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "id": "SGW4-002",
+    "price": 349.99
+  },
+  {
+    "name": "Fitbit Versa 3",
+    "id": "FV3-003",
+    "price": 229.95
+  },
+  {
+    "name": "Garmin Fenix 6 Pro",
+    "id": "GFP6-004",
+    "price": 699.99
+  },
+  {
+    "name": "Huawei Watch GT 2 Pro",
+    "id": "HGT2P-005",
+    "price": 299.00
+  }
+]
